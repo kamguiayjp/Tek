@@ -1,0 +1,3 @@
+Partlist exported from /Users/ykamguia/Documents/eagle/Tek_Smartwatch/Tek-BASIC-PPG-MODULE.sch at 7/14/20 11:04 AM
+
+Part Value Device Package Description 
